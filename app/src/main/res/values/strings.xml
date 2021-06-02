@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MotivationalPhrases</string>
+    <string name="phrases">phrases</string>
+    <string name="gerar_uma_nova_frase">GERAR UMA NOVA FRASE</string>
+</resources>
